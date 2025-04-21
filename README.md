@@ -10,7 +10,7 @@
         
 ```
 
-![MANOLO Art](img/manolo-art.png)
+![MANOLO Art](img/manolodev.png)
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Nolos17" target="blank">
 Manolo Dev</a></h1>
